@@ -1,0 +1,8 @@
+You are logged in as an Administrator. 
+You can perform the following operations, indicated by the following keys.
+
+1: Start the system
+
+2: Stop the system
+
+3: Read course files, and create all necessary objects 

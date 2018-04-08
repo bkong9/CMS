@@ -1,0 +1,6 @@
+
+Notification Preferences: Method of Notification
+
+A: Email
+B: Cellphone
+C: Pigeon Post

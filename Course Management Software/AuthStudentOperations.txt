@@ -1,0 +1,10 @@
+You are logged in as a student. 
+You can perform the following operations, indicated by the following keys.
+
+1: Begins procedure to enroll in a course
+
+2: Check current notification status 
+
+3: Add preferences to notification status 
+
+4: Print the record for a given course you are enrolled in

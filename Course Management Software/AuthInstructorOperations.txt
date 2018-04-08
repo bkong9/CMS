@@ -1,0 +1,10 @@
+You are logged in as an Instructor. 
+You can perform the following operations, indicated by the following keys.
+
+1: Add the mark for an identified student enrolled in your course 
+
+2: Modify the mark for an identified student enrolled in your course 
+
+3: Calculate the final grade of an identified student enrolled in your course 
+
+4: Print the entire class record of an identified course 
